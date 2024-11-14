@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Ebay Product Search in a category Test is Successful...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-27T12:13:05 IST" name="Default suite" finished-at="2024-08-27T12:13:17 IST" duration-ms="11949">
+    <groups>
+    </groups>
+    <test started-at="2024-08-27T12:13:05 IST" name="Default test" finished-at="2024-08-27T12:13:17 IST" duration-ms="11949">
+      <class name="com.saag.POMTestCases.POMEbayProdCatSearchTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:com.saag.POMTestCases.POMEbayProdCatSearchTest@4c583ecf]" started-at="2024-08-27T12:12:56 IST" name="startUp" finished-at="2024-08-27T12:13:05 IST" duration-ms="8516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="catSearch()[pri:0, instance:com.saag.POMTestCases.POMEbayProdCatSearchTest@4c583ecf]" started-at="2024-08-27T12:13:05 IST" name="catSearch" finished-at="2024-08-27T12:13:17 IST" duration-ms="11879" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Ebay Product Search in a category Test is Successful...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- catSearch -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.saag.POMTestCases.POMEbayProdCatSearchTest@4c583ecf]" started-at="2024-08-27T12:13:17 IST" name="afterSuite" finished-at="2024-08-27T12:13:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.saag.POMTestCases.POMEbayProdCatSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
